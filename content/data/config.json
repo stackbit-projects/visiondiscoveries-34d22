@@ -5,7 +5,7 @@
     "palette": "blue",
     "header": {
         "title": "Vision Discoveries.",
-        "logo_img": "images/logo.svg",
+        "logo_img": "/images/Vision-Discoveries.svg",
         "logo_img_alt": "Vision Discoveries.",
         "has_nav": true,
         "nav_links": [
