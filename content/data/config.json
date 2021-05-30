@@ -2,7 +2,7 @@
     "title": "Vision Discoveries.",
     "path_prefix": "/",
     "layout_style": "grid",
-    "palette": "black",
+    "palette": "blue",
     "header": {
         "title": "Ampersand",
         "logo_img": "images/logo.svg",
