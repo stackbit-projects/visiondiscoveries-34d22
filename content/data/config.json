@@ -16,7 +16,8 @@
             {
                 "label": "About",
                 "url": "/about",
-                "style": "link"
+                "style": "link",
+                "no_follow": true
             },
             {
                 "label": "Contact",
