@@ -1,12 +1,9 @@
 ---
 title: Home
 has_intro: true
-intro_content: >+
-  Welcome to **Vision Discoveries. **We post explainations with code of
+intro_content: >
+  Welcome to **Vision Discoveries.** We post explainations with code of
   state-of-the art research papers in 2D and 3D computer vision.
-
-
-
 intro_actions:
   - label: Learn More
     url: /about
