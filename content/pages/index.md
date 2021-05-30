@@ -2,7 +2,7 @@
 title: Home
 has_intro: true
 intro_content: |
-  Welcome to **Vision Discoveries. **
+  Welcome to **Vision Discoveries.**
 intro_actions:
   - label: Learn More
     url: /about
